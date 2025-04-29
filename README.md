@@ -1,4 +1,6 @@
 # 🔥 Trickster - Web Cache Deception Scanner
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 Trickster is a fast and extensible tool written in Python to detect **Web Cache Deception (WCD)** vulnerabilities. It simulates different file extensions and observes caching behavior to find misconfigured caching systems.
 
